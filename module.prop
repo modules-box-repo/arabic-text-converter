@@ -1,0 +1,10 @@
+id=arabic-text-converter
+name=Arabic Text Converter
+icon=icon.jpg
+description=Convert Arabic text for proper display in video editors, Photoshop, and games.
+author=YasserNull
+version=v1.0.0
+versionCode=1
+repository=https://github.com/modules-box-repo/arabic-text-converter
+install=setup.sh
+permission=default
